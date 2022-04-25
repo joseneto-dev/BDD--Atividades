@@ -1,0 +1,22 @@
+{ 
+    "modelo": "Iphone 5s", 
+    "marca":"Apple" , 
+    "descricao":"Celular Apple 5s"  , 
+    "vendedores": [
+        "Americanas", 
+        "Amazon", 
+        "Mercado Livre" ], 
+    "tamanhoDoArmazenamentoInternoEmGB": 8,  
+    "preco": 1.500 , 
+    "bateriaRemovivel": false, 
+    "quantidadeMegaPixelsCameraTraseira": 55 ,  
+    "possuiCameraFrontal": true , 
+    "quantidadeMegaPixelsCameraFrontal": 22 ,  
+    "coresDisponiveis": [
+   "Prata",
+   "Preto",
+   "Red",
+   "Blue"
+   ] 
+   } 
+   
